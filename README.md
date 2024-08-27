@@ -5,5 +5,16 @@ Conteudos:
 
 |FACULDADE | DEVSFREE ACADEMY|
 |----------|-----------------|
-|x|Y|
-|X|Y|
+|Módulo 1: Fundamentos de Redes de Computadores||
+|Introdução às Redes de Computadores||
+|Componentes de Rede||
+|Protocolos de Rede||
+|Laboratório Prático com Packet Tracer||
+|Módulo 2: Configuração Avançada de Redes||
+|Segurança em Redes||
+|Serviços de Rede Avançados||
+|Laboratório Prático com Packet Tracer||
+|Módulo 3: Projeto Prático em Redes de Computadores||
+|Planejamento do Projeto||
+|Implementação e Configuração||
+|Apresentação e Documentação||
